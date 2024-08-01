@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/src/Main.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/database/DataInsert.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/database/DataSelece.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/frame/LoginPanel.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/frame/MainFrame.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/frame/RegisterPanel.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/frame/admin/AdminMenuPanel.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/frame/admin/Dialog/AddAdminDialog.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/frame/admin/Dialog/AddPoetryDialog.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/frame/admin/Dialog/AddUserDialog.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/frame/admin/Dialog/ModifyAdminPasswordDialog.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/frame/admin/Dialog/ModifyPoetryDialog.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/frame/admin/Dialog/ModifyUserDialog.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/frame/admin/PoetryManage.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/frame/admin/UserManage.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/frame/admin/adminPersonalPanel.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/frame/user/ModifyUserPasswordDialog.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/frame/user/MyStar.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/frame/user/PoetryRetrieval.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/frame/user/PoetrysHome.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/frame/user/UserFrame.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/frame/user/UserMenuPanel.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/frame/user/userPersonalPanel.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/images/001.png" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/images/bg1.png" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/images/login_btn.png" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/images/reg_btn.png" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/pojo/Poetry.java" charset="GBK" />
+  </component>
+</project>

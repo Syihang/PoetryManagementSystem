@@ -1,0 +1,2 @@
+# PoetryManagementSystem
+诗词管理系统，Java大作业，采用JavaSwing实现GUI界面，数据库选择了Mysql数据库
